@@ -156,3 +156,22 @@ class BookReservation : Reservation, IReservation
         }
     }
 }
+
+class Program
+{
+    static void Main()
+    {
+        var user = new User(1, "Вася", "Програміст", "vasylko@gmail.com", "0987654321");
+        var book = new Book(101, "Пригоди Шерлока Холмса", "Артур Конан Дойл", 1892, 320);
+
+        user.PrintInfo();
+        book.PrintInfo();
+
+        var reservation = new BookReservation(1001, book, user);
+        reservation.Reserve(DateTime.Today, DateTime.Today.AddDays(7));
+        book.PrintInfo();
+
+        reservation.CancelReservation();
+        book.PrintInfo();
+    }
+}
