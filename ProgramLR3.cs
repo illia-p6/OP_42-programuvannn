@@ -44,3 +44,15 @@ public class Repository<T> : IRepository<T> where T : BaseEntity
         return new List<T>(_entities);
     }
 }
+
+public class Product : BaseEntity
+{
+    public string Name { get; set; }
+    public decimal Price { get; set; }
+
+    public Product(int id, string name, decimal price) : base(id)
+    {
+        Name = name;
+        Price = price;
+    }
+}
