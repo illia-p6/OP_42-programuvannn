@@ -56,3 +56,22 @@ public class Product : BaseEntity
         Price = price;
     }
 }
+
+public class ProductRepository : Repository<Product>
+{
+    public IEnumerable<Product> GetSortedByName()
+    {
+        return GetAll().OrderBy(p => p.Name);
+    }
+
+    public IEnumerable<Product> GetSortedByPrice()
+    {
+        return GetAll().OrderBy(p => p.Price);
+    }
+
+    // Метод для фільтрації продуктів за ціною
+    public IEnumerable<Product> GetProductsAbovePrice(decimal price)
+    {
+        return GetAll().Where(p => p.Price > price);
+    }
+}
