@@ -15,3 +15,10 @@ abstract class BaseEntity
         Console.WriteLine($"ID: {ID}");
     }
 }
+
+interface IReservation
+{
+    void Reserve(DateTime startDate, DateTime endDate);
+    void CancelReservation();
+    bool IsReserved { get; }
+}
