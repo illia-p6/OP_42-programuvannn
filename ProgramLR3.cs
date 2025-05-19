@@ -75,3 +75,54 @@ public class ProductRepository : Repository<Product>
         return GetAll().Where(p => p.Price > price);
     }
 }
+
+class Program
+{
+    static void Main(string[] args)
+    {
+        var productRepository = new ProductRepository();
+
+        // Додавання продуктів
+        productRepository.Add(new Product(1, "Продукт 1", 100));
+        productRepository.Add(new Product(2, "Продукт 2", 200));
+        productRepository.Add(new Product(3, "Продукт 3", 300));
+
+        Console.WriteLine("Всі продукти:");
+        foreach (var product in productRepository.GetAll())
+        {
+            Console.WriteLine($"{product.Name} - {product.Price}");
+        }
+
+        // Сортування за назвою
+        Console.WriteLine("\nПродукти, відсортовані за назвою:");
+        foreach (var product in productRepository.GetSortedByName())
+        {
+            Console.WriteLine($"{product.Name} - {product.Price}");
+        }
+
+        // Сортування за ціною
+        Console.WriteLine("\nПродукти, відсортовані за ціною:");
+        foreach (var product in productRepository.GetSortedByPrice())
+        {
+            Console.WriteLine($"{product.Name} - {product.Price}");
+        }
+
+        // Фільтрація продуктів за ціною
+        Console.WriteLine("\nФільтровані продукти (ціна > 150):");
+        foreach (var product in productRepository.GetProductsAbovePrice(150))
+        {
+            Console.WriteLine($"{product.Name} - {product.Price}");
+        }
+
+        // Видалення продукту
+        Product productToRemove = productRepository.GetById(2);
+        productRepository.Remove(productToRemove);
+
+        // Виведення після видалення
+        Console.WriteLine("\nПродукти після видалення:");
+        foreach (var product in productRepository.GetAll())
+        {
+            Console.WriteLine($"{product.Name} - {product.Price}");
+        }
+    }
+}
