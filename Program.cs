@@ -145,3 +145,14 @@ class BookReservation : Reservation, IReservation
             Console.WriteLine("Неможливо забронювати книгу. Вона вже заброньована.");
         }
     }
+
+        public override void CancelReservation()
+    {
+        if (IsReserved)
+        {
+            base.CancelReservation();
+            Book.Available = true;
+            Console.WriteLine($"Бронювання книги '{Book.Title}' скасовано.");
+        }
+    }
+}
