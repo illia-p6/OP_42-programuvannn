@@ -94,3 +94,26 @@ class Book : BaseEntity
         Console.WriteLine($"Книга: {Title} ({Author}, {Year}) - {GetStatus()}");
     }
 }
+
+class Reservation : BaseEntity
+{
+    public DateTime StartDate { get; set; }
+    public DateTime EndDate { get; set; }
+    public virtual bool IsReserved { get; set; }
+
+    public Reservation(int id) : base(id) { }
+
+    public virtual void Reserve(DateTime startDate, DateTime endDate)
+    {
+        StartDate = startDate;
+        EndDate = endDate;
+        IsReserved = true;
+    }
+
+    public virtual void CancelReservation()
+    {
+        IsReserved = false;
+        StartDate = DateTime.MinValue;
+        EndDate = DateTime.MinValue;
+    }
+}
