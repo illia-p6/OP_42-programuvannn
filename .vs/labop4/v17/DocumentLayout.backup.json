@@ -1,0 +1,361 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Illya\\source\\repos\\labop4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5B64804-CC70-4499-AA16-2F707B1EAD7C}|labop4\\labop4.csproj|c:\\users\\illya\\source\\repos\\labop4\\labop4\\forms\\reservationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5B64804-CC70-4499-AA16-2F707B1EAD7C}|labop4\\labop4.csproj|solutionrelative:labop4\\forms\\reservationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5B64804-CC70-4499-AA16-2F707B1EAD7C}|labop4\\labop4.csproj|c:\\users\\illya\\source\\repos\\labop4\\labop4\\forms\\reservationform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5B64804-CC70-4499-AA16-2F707B1EAD7C}|labop4\\labop4.csproj|solutionrelative:labop4\\forms\\reservationform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5B64804-CC70-4499-AA16-2F707B1EAD7C}|labop4\\labop4.csproj|C:\\Users\\Illya\\source\\repos\\labop4\\labop4\\forms\\reservationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F5B64804-CC70-4499-AA16-2F707B1EAD7C}|labop4\\labop4.csproj|solutionrelative:labop4\\forms\\reservationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5B64804-CC70-4499-AA16-2F707B1EAD7C}|labop4\\labop4.csproj|c:\\users\\illya\\source\\repos\\labop4\\labop4\\models\\bookreservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5B64804-CC70-4499-AA16-2F707B1EAD7C}|labop4\\labop4.csproj|solutionrelative:labop4\\models\\bookreservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5B64804-CC70-4499-AA16-2F707B1EAD7C}|labop4\\labop4.csproj|c:\\users\\illya\\source\\repos\\labop4\\labop4\\forms\\bookform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5B64804-CC70-4499-AA16-2F707B1EAD7C}|labop4\\labop4.csproj|solutionrelative:labop4\\forms\\bookform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5B64804-CC70-4499-AA16-2F707B1EAD7C}|labop4\\labop4.csproj|C:\\Users\\Illya\\source\\repos\\labop4\\labop4\\forms\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F5B64804-CC70-4499-AA16-2F707B1EAD7C}|labop4\\labop4.csproj|solutionrelative:labop4\\forms\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5B64804-CC70-4499-AA16-2F707B1EAD7C}|labop4\\labop4.csproj|C:\\Users\\Illya\\source\\repos\\labop4\\labop4\\forms\\bookform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F5B64804-CC70-4499-AA16-2F707B1EAD7C}|labop4\\labop4.csproj|solutionrelative:labop4\\forms\\bookform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5B64804-CC70-4499-AA16-2F707B1EAD7C}|labop4\\labop4.csproj|c:\\users\\illya\\source\\repos\\labop4\\labop4\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5B64804-CC70-4499-AA16-2F707B1EAD7C}|labop4\\labop4.csproj|solutionrelative:labop4\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5B64804-CC70-4499-AA16-2F707B1EAD7C}|labop4\\labop4.csproj|c:\\users\\illya\\source\\repos\\labop4\\labop4\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5B64804-CC70-4499-AA16-2F707B1EAD7C}|labop4\\labop4.csproj|solutionrelative:labop4\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5B64804-CC70-4499-AA16-2F707B1EAD7C}|labop4\\labop4.csproj|c:\\users\\illya\\source\\repos\\labop4\\labop4\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5B64804-CC70-4499-AA16-2F707B1EAD7C}|labop4\\labop4.csproj|solutionrelative:labop4\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5B64804-CC70-4499-AA16-2F707B1EAD7C}|labop4\\labop4.csproj|c:\\users\\illya\\source\\repos\\labop4\\labop4\\labop4.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F5B64804-CC70-4499-AA16-2F707B1EAD7C}|labop4\\labop4.csproj|solutionrelative:labop4\\labop4.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5B64804-CC70-4499-AA16-2F707B1EAD7C}|labop4\\labop4.csproj|c:\\users\\illya\\source\\repos\\labop4\\labop4\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5B64804-CC70-4499-AA16-2F707B1EAD7C}|labop4\\labop4.csproj|solutionrelative:labop4\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5B64804-CC70-4499-AA16-2F707B1EAD7C}|labop4\\labop4.csproj|C:\\Users\\Illya\\source\\repos\\labop4\\labop4\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F5B64804-CC70-4499-AA16-2F707B1EAD7C}|labop4\\labop4.csproj|solutionrelative:labop4\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5B64804-CC70-4499-AA16-2F707B1EAD7C}|labop4\\labop4.csproj|c:\\users\\illya\\source\\repos\\labop4\\labop4\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5B64804-CC70-4499-AA16-2F707B1EAD7C}|labop4\\labop4.csproj|solutionrelative:labop4\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5B64804-CC70-4499-AA16-2F707B1EAD7C}|labop4\\labop4.csproj|c:\\users\\illya\\source\\repos\\labop4\\labop4\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5B64804-CC70-4499-AA16-2F707B1EAD7C}|labop4\\labop4.csproj|solutionrelative:labop4\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5B64804-CC70-4499-AA16-2F707B1EAD7C}|labop4\\labop4.csproj|c:\\users\\illya\\source\\repos\\labop4\\labop4\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5B64804-CC70-4499-AA16-2F707B1EAD7C}|labop4\\labop4.csproj|solutionrelative:labop4\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5B64804-CC70-4499-AA16-2F707B1EAD7C}|labop4\\labop4.csproj|c:\\users\\illya\\source\\repos\\labop4\\labop4\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5B64804-CC70-4499-AA16-2F707B1EAD7C}|labop4\\labop4.csproj|solutionrelative:labop4\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5B64804-CC70-4499-AA16-2F707B1EAD7C}|labop4\\labop4.csproj|c:\\users\\illya\\source\\repos\\labop4\\labop4\\models\\ireservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5B64804-CC70-4499-AA16-2F707B1EAD7C}|labop4\\labop4.csproj|solutionrelative:labop4\\models\\ireservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5B64804-CC70-4499-AA16-2F707B1EAD7C}|labop4\\labop4.csproj|c:\\users\\illya\\source\\repos\\labop4\\labop4\\forms\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5B64804-CC70-4499-AA16-2F707B1EAD7C}|labop4\\labop4.csproj|solutionrelative:labop4\\forms\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5B64804-CC70-4499-AA16-2F707B1EAD7C}|labop4\\labop4.csproj|c:\\users\\illya\\source\\repos\\labop4\\labop4\\forms\\userform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5B64804-CC70-4499-AA16-2F707B1EAD7C}|labop4\\labop4.csproj|solutionrelative:labop4\\forms\\userform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5B64804-CC70-4499-AA16-2F707B1EAD7C}|labop4\\labop4.csproj|c:\\users\\illya\\source\\repos\\labop4\\labop4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5B64804-CC70-4499-AA16-2F707B1EAD7C}|labop4\\labop4.csproj|solutionrelative:labop4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReservationForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Illya\\source\\repos\\labop4\\labop4\\Forms\\ReservationForm.Designer.cs",
+              "RelativeDocumentMoniker": "labop4\\Forms\\ReservationForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Illya\\source\\repos\\labop4\\labop4\\Forms\\ReservationForm.Designer.cs",
+              "RelativeToolTip": "labop4\\Forms\\ReservationForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFQAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T18:11:46.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReservationForm.cs",
+              "DocumentMoniker": "C:\\Users\\Illya\\source\\repos\\labop4\\labop4\\Forms\\ReservationForm.cs",
+              "RelativeDocumentMoniker": "labop4\\Forms\\ReservationForm.cs",
+              "ToolTip": "C:\\Users\\Illya\\source\\repos\\labop4\\labop4\\Forms\\ReservationForm.cs",
+              "RelativeToolTip": "labop4\\Forms\\ReservationForm.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAIwAQBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T17:55:45.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookForm.cs",
+              "DocumentMoniker": "C:\\Users\\Illya\\source\\repos\\labop4\\labop4\\Forms\\BookForm.cs",
+              "RelativeDocumentMoniker": "labop4\\Forms\\BookForm.cs",
+              "ToolTip": "C:\\Users\\Illya\\source\\repos\\labop4\\labop4\\Forms\\BookForm.cs",
+              "RelativeToolTip": "labop4\\Forms\\BookForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T15:25:50.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UserForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Illya\\source\\repos\\labop4\\labop4\\Forms\\UserForm.Designer.cs",
+              "RelativeDocumentMoniker": "labop4\\Forms\\UserForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Illya\\source\\repos\\labop4\\labop4\\Forms\\UserForm.Designer.cs",
+              "RelativeToolTip": "labop4\\Forms\\UserForm.Designer.cs",
+              "ViewState": "AgIAALYAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T09:26:43.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserForm.cs",
+              "DocumentMoniker": "C:\\Users\\Illya\\source\\repos\\labop4\\labop4\\Forms\\UserForm.cs",
+              "RelativeDocumentMoniker": "labop4\\Forms\\UserForm.cs",
+              "ToolTip": "C:\\Users\\Illya\\source\\repos\\labop4\\labop4\\Forms\\UserForm.cs",
+              "RelativeToolTip": "labop4\\Forms\\UserForm.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T08:42:12.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Illya\\source\\repos\\labop4\\labop4\\Forms\\UserForm.cs",
+              "RelativeDocumentMoniker": "labop4\\Forms\\UserForm.cs",
+              "ToolTip": "C:\\Users\\Illya\\source\\repos\\labop4\\labop4\\Forms\\UserForm.cs [Design]",
+              "RelativeToolTip": "labop4\\Forms\\UserForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T08:20:24.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReservationForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Illya\\source\\repos\\labop4\\labop4\\Forms\\ReservationForm.cs",
+              "RelativeDocumentMoniker": "labop4\\Forms\\ReservationForm.cs",
+              "ToolTip": "C:\\Users\\Illya\\source\\repos\\labop4\\labop4\\Forms\\ReservationForm.cs [Design]",
+              "RelativeToolTip": "labop4\\Forms\\ReservationForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T08:22:02.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Illya\\source\\repos\\labop4\\labop4\\Program.cs",
+              "RelativeDocumentMoniker": "labop4\\Program.cs",
+              "ToolTip": "C:\\Users\\Illya\\source\\repos\\labop4\\labop4\\Program.cs",
+              "RelativeToolTip": "labop4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T08:35:05.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Illya\\source\\repos\\labop4\\labop4\\Forms\\BookForm.cs",
+              "RelativeDocumentMoniker": "labop4\\Forms\\BookForm.cs",
+              "ToolTip": "C:\\Users\\Illya\\source\\repos\\labop4\\labop4\\Forms\\BookForm.cs [Design]",
+              "RelativeToolTip": "labop4\\Forms\\BookForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T08:21:42.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\Illya\\source\\repos\\labop4\\labop4\\Forms\\MainForm.cs",
+              "RelativeDocumentMoniker": "labop4\\Forms\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Illya\\source\\repos\\labop4\\labop4\\Forms\\MainForm.cs",
+              "RelativeToolTip": "labop4\\Forms\\MainForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T08:15:11.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Illya\\source\\repos\\labop4\\labop4\\Forms\\MainForm.cs",
+              "RelativeDocumentMoniker": "labop4\\Forms\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Illya\\source\\repos\\labop4\\labop4\\Forms\\MainForm.cs [Design]",
+              "RelativeToolTip": "labop4\\Forms\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T08:14:43.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "labop4.csproj",
+              "DocumentMoniker": "C:\\Users\\Illya\\source\\repos\\labop4\\labop4\\labop4.csproj",
+              "RelativeDocumentMoniker": "labop4\\labop4.csproj",
+              "ToolTip": "C:\\Users\\Illya\\source\\repos\\labop4\\labop4\\labop4.csproj",
+              "RelativeToolTip": "labop4\\labop4.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-20T07:24:25.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\Illya\\source\\repos\\labop4\\labop4\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "labop4\\Repositories\\Repository.cs",
+              "ToolTip": "C:\\Users\\Illya\\source\\repos\\labop4\\labop4\\Repositories\\Repository.cs",
+              "RelativeToolTip": "labop4\\Repositories\\Repository.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAmwBcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T07:23:13.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Illya\\source\\repos\\labop4\\labop4\\Models\\User.cs",
+              "RelativeDocumentMoniker": "labop4\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Illya\\source\\repos\\labop4\\labop4\\Models\\User.cs",
+              "RelativeToolTip": "labop4\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T06:54:51.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookReservation.cs",
+              "DocumentMoniker": "C:\\Users\\Illya\\source\\repos\\labop4\\labop4\\Models\\BookReservation.cs",
+              "RelativeDocumentMoniker": "labop4\\Models\\BookReservation.cs",
+              "ToolTip": "C:\\Users\\Illya\\source\\repos\\labop4\\labop4\\Models\\BookReservation.cs",
+              "RelativeToolTip": "labop4\\Models\\BookReservation.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAtwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T07:13:54.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Illya\\source\\repos\\labop4\\labop4\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "labop4\\Repositories\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Illya\\source\\repos\\labop4\\labop4\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "labop4\\Repositories\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T07:20:06.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IReservation.cs",
+              "DocumentMoniker": "C:\\Users\\Illya\\source\\repos\\labop4\\labop4\\Models\\IReservation.cs",
+              "RelativeDocumentMoniker": "labop4\\Models\\IReservation.cs",
+              "ToolTip": "C:\\Users\\Illya\\source\\repos\\labop4\\labop4\\Models\\IReservation.cs",
+              "RelativeToolTip": "labop4\\Models\\IReservation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T07:15:52.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "C:\\Users\\Illya\\source\\repos\\labop4\\labop4\\Models\\Reservation.cs",
+              "RelativeDocumentMoniker": "labop4\\Models\\Reservation.cs",
+              "ToolTip": "C:\\Users\\Illya\\source\\repos\\labop4\\labop4\\Models\\Reservation.cs",
+              "RelativeToolTip": "labop4\\Models\\Reservation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T07:11:32.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Illya\\source\\repos\\labop4\\labop4\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "labop4\\Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Illya\\source\\repos\\labop4\\labop4\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "labop4\\Models\\BaseEntity.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAiwAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T07:10:02.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Illya\\source\\repos\\labop4\\labop4\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "labop4\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\Illya\\source\\repos\\labop4\\labop4\\Models\\Book.cs",
+              "RelativeToolTip": "labop4\\Models\\Book.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAADwvwgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T07:09:24.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\Illya\\source\\repos\\labop4\\labop4\\Models\\Admin.cs",
+              "RelativeDocumentMoniker": "labop4\\Models\\Admin.cs",
+              "ToolTip": "C:\\Users\\Illya\\source\\repos\\labop4\\labop4\\Models\\Admin.cs",
+              "RelativeToolTip": "labop4\\Models\\Admin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T07:07:34.621Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
