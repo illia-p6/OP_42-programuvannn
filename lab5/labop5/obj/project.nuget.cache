@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "aKBdv0IAXOA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Illya\\OneDrive\\Documents\\GitHub\\labop5\\labop4\\labop5.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Illya\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
